@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer reforged (Helheim)" indexUrl="https://github.com/aciduric/reforgeheim/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer reforged (Helheim)" indexUrl="https://raw.githubusercontent.com/aciduric/reforgeheim/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="430"/>
     <dataIndexEntry filePath="Las aventuras de Gotrek y Felix.catz" dataType="catalogue" dataId="b6bc-5ac6-8851-e26e" dataName="Las aventuras de Gotrek y Felix" dataBattleScribeVersion="2.03" dataRevision="5"/>
@@ -46,7 +46,7 @@
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="429"/>
     <dataIndexEntry filePath="Middenland.catz" dataType="catalogue" dataId="09c4-4a06-8b6c-530f" dataName="Middenland" dataBattleScribeVersion="2.03" dataRevision="34"/>
     <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="25"/>
-    <dataIndexEntry filePath="Legion demoniaca de Nurgle.catz" dataType="catalogue" dataId="f99a-10a7-0b91-e75f" dataName="Legion demoniaca de Nurgle" dataBattleScribeVersion="2.03" dataRevision="19"/>
+    <dataIndexEntry filePath="Legion demoniaca de Nurgle.catz" dataType="catalogue" dataId="f99a-10a7-0b91-e75f" dataName="Legion demoniaca de Nurgle" dataBattleScribeVersion="2.03" dataRevision="20"/>
     <dataIndexEntry filePath="Goblins nocturnos.catz" dataType="catalogue" dataId="fa9d-c3b9-2c09-c978" dataName="Goblins nocturnos" dataBattleScribeVersion="2.03" dataRevision="422"/>
     <dataIndexEntry filePath="Legion demoniaca de Khorne.catz" dataType="catalogue" dataId="886d-e1a7-8a64-4b2c" dataName="Legion demoniaca de Khorne" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="90ff-d5d9-3ca7-598e" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="430"/>
